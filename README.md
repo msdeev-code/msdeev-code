@@ -38,6 +38,10 @@ Fullstack developer with a passion for building things. From Telegram bots to we
 
 ### Featured Projects
 
+[![AutoLine Shop](https://img.shields.io/badge/🛒_AutoLine_Shop-green?style=for-the-badge)](https://github.com/msdeev-code/autoline-shop-telegram-miniapp)
+
+> Telegram Mini App e-commerce store for auto parts — Django REST backend, Vanilla JS SPA, Docker + ngrok, bilingual (RU/UA), 11 products with real photos.
+
 [![AutoLine Bot](https://img.shields.io/badge/🤖_AutoLine_Bot-blue?style=for-the-badge)](https://github.com/msdeev-code/autoline-telegram-bot-demo)
 
 > Telegram bot for car service — booking, reviews, admin panel, bilingual (RU/UA), Docker deployment.
